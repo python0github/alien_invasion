@@ -44,4 +44,4 @@ def run_game():
                 play_button)
 
 
-run_game)
+run_game()
